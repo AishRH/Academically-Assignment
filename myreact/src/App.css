@@ -1,0 +1,11 @@
+.perspective {
+  perspective: 1000px;
+}
+
+.rotate-x-6 {
+  transform: rotateX(6deg);
+}
+
+.rotate-x-3 {
+  transform: rotateX(3deg);
+}
