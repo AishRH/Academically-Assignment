@@ -15,7 +15,7 @@ export default function OneRight() {
         {/* Wrapper ensures equal height */}
         <div className="flex gap-2">
           {/* Card 1 */}
-          <div className="bg-rose-500 rounded-xl text-white p-3 flex flex-col items-start sm:aspect-square w-30 sm:w-40 h-36 sm:h-40">
+          <div className="bg-rose-400 rounded-xl text-white p-3 flex flex-col items-start sm:aspect-square w-30 sm:w-40 h-36 sm:h-40">
             <FaRegHeart className="text-xl sm:text-2xl mb-1" />
             <p className="text-xs sm:text-sm font-semibold leading-snug">
               You’re interested in traveling and exploring new cultures.
